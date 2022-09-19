@@ -11,3 +11,5 @@ class AssertRes:
                 print("验证失败")
                 return False
             return True
+        else:
+            raise AssertionError

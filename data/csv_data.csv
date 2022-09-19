@@ -1,0 +1,4 @@
+用例ID,用例模块,用例名称,请求方式,请求url,请求类型,请求参数,预期响应码,响应数据
+mytest_001,mytest,请求百度,GET,https://www.baidu.com,,,200,
+mytest_002,mytest,请求知乎,GET,https://zhuanlan.zhihu.com,,,200,
+mytest_003,mytest,请求csdn,GET,https://blog.csdn.net,,,200,
